@@ -1,0 +1,1 @@
+An AI-powered Data Analysis Agent built with "LangChain", "Pandas" and "GroqAI" that allows users to analyze CSV or Excel datasets using natural language. Instead of writing complex Pandas code, simply ask questions in plain English, and the agent will inspect the dataset, perform calculations, generate insights, and answer intelligently.
